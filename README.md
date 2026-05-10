@@ -22,6 +22,8 @@ These principles guide every project in this repo:
 
 ### Phase 0: Python Foundations
 
+I'll be using the free resource Automate the boring stuff with Python (ATBSWP) from Al Sweigart.
+
 - [ ] ATBSWP Chapters 3-8 (Loops, Functions, Debugging, Lists, Dicts, Strings)
 - [ ] ATBSWP Chapters 9-10 (Regex, Files)
 - [ ] ATBSWP Chapters 12, 16, 18 (CLI Programs, SQLite, JSON)
